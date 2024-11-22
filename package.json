@@ -1,0 +1,20 @@
+{
+  "name": "filstylefood3dgame",
+  "version": "1.0.0",
+  "main": "gameUI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "vite": "^5.4.11"
+  },
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "three": "^0.170.0"
+  }
+}
